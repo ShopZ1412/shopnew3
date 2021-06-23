@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Súng trường STV &#8211; xuất sứ Việt Nam &#8211; WordPress Của Nghĩa</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/sung-truong-stv-xuat-su-viet-nam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shopz1412.github.io/shopnew3</link>
+	<description>La hét trong tolet</description>
+	<lastBuildDate>Thu, 10 Jun 2021 08:59:48 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://shopz1412.github.io/shopnew3/wp-content/uploads/2021/05/cropped-140397277_867078044078343_8593870274606214864_n-32x32.jpg</url>
+	<title>Súng trường STV &#8211; xuất sứ Việt Nam &#8211; WordPress Của Nghĩa</title>
+	<link>https://shopz1412.github.io/shopnew3</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Súng trường STV &#8211; xuất sứ Việt Nam</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[Z]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 08:59:48 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Súng trường STV &#8211; xuất sứ Việt Nam Đọc tiếp]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị kết quả duy nhất</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-183 status-publish first outofstock product_cat-sung-truong product_tag-sung-truong-stv-xuat-su-viet-nam has-post-thumbnail shipping-taxable product-type-variable">
+	<a href="https://shopz1412.github.io/shopnew3/sản%20phẩm/sung-truong-stv-xuat-su-viet-nam/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://shopz1412.github.io/shopnew3/wp-content/uploads/2021/06/sung5-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://shopz1412.github.io/shopnew3/wp-content/uploads/2021/06/sung5-300x300.jpg 300w, https://shopz1412.github.io/shopnew3/wp-content/uploads/2021/06/sung5-100x100.jpg 100w, https://shopz1412.github.io/shopnew3/wp-content/uploads/2021/06/sung5-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Súng trường STV &#8211; xuất sứ Việt Nam</h2>
+</a><a href="https://shopz1412.github.io/shopnew3/sản%20phẩm/sung-truong-stv-xuat-su-viet-nam/" data-quantity="1" class="button product_type_variable" data-product_id="183" data-product_sku="T1258" aria-label="Lựa chọn cho &ldquo;Súng trường STV - xuất sứ Việt Nam&rdquo;" rel="nofollow">Đọc tiếp</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
